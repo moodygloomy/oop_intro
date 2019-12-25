@@ -91,7 +91,7 @@ class Racing_Choice_Game {
     do {
       _computer_choice = random_Choice_Number(min_computer, max_computer);
       counter_list.add('A');
-      round = counter_list.lastIndexOf('A');n
+      round = counter_list.lastIndexOf('A');
       print('=============================================================={Round ${round + 1}}============================================================ \n ' );
 
       print('--------------------------------------------------------[pls Enter Your Choice:]------------------------------------------------------- \n' );
